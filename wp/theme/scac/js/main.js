@@ -1,8 +1,8 @@
 var app = (function(w, d, $){
         'use strict';
-                
-        
-        var elements = {},	
+
+
+        var elements = {},
 		settings = {},
 		dimensions = {},
 		captions = [],
@@ -46,38 +46,44 @@ var app = (function(w, d, $){
 			},
 			callback: {
 				complete: function(number) {
-					console.log(number);
+					//console.log(number);
 					if(number < 1) {
 						number = captions.length;
 					}
-					//console.log(captions[number-1]);
-					
-					//elements.homePageSlideCaptionTitle.text(captions[number-1].title);
-					console.log(captions.length);
-					//elements.homePageSlideCaptionBody.html(captions[number-1].body)
+					console.log(captions[number-1].title);
+
+                    $('.caption:nth(0)').find('.caption-title').text(captions[number-1].title);
+					//console.log(captions.length);
+                    $('.caption:nth(0)').find('.caption-body').html(captions[number-1].body)
 				}
 			}
 		};
-		subtitles.get = function() {
+
+        subtitles.get = function() {
 			return subtitles[_.random(subtitles.length-1)];
 		};
-		var rotateSlideShowCaptions = function() {
+
+        var rotateSlideShowCaptions = function() {
 			var caption = $('.caption');
-			$('.caption:not(:first)').hide();	
+			$('.caption:not(:first)').hide();
 		};
-		var setupDimensions = function() {
+
+        var setupDimensions = function() {
 			elements.homepageSlideContainer.css({
-				height: $(window).height()-($('.title-social').height()+ $('.logo-menu-wrapper').height())	
+				height: $(window).height()-($('.title-social').height()+ $('.logo-menu-wrapper').height())
 			});
 		};
-		var initSlideshow = function(wrapperEl, args) {
-			console.log('init slide show');
+
+        var initSlideshow = function(wrapperEl, args) {
+			//console.log('init slide show');
 			$(wrapperEl).slidesjs(args);
 		};
-		var initFoundation = function() {
+
+        var initFoundation = function() {
 			$(d).foundation('topbar section clearing');
 		};
-		var initSideBarSticky = function() {
+
+        var initSideBarSticky = function() {
 			//console.log(elements.sideBar.self);
 			$(w).on('scroll', function() {
 				var x = elements.sideBar.self.offset().left;
@@ -93,17 +99,17 @@ var app = (function(w, d, $){
 						} else {
 							elements.sideBar.self.css({
 								position: 'static'
-								
+
 							});
 						}
-						
+
 					},
 					offset : 110
 				})
 			});
 			$('.anchor').on('click', function(e) {
 				e.preventDefault();
-				var link = $(this),	
+				var link = $(this),
 					name = $(this).attr('href').substring(1),
 					dist = $('#'+name).offset().top - 130;
 				$('html,body').animate({
@@ -112,13 +118,14 @@ var app = (function(w, d, $){
 					$('.anchor').parent('li').removeClass('active');
 					link.parent('li').addClass('active');
 				});
-	
-	
-			});	
+
+
+			});
 		};
-		var initRotatingSubtitles = function() {
+
+        var initRotatingSubtitles = function() {
 			var rotateSubtitle = function() {
-				elements.rotatingSubtitle.transition({
+                $('.rotating-subtitle').find('.rotating').transition({
 					opacity: 0
 				}, 500, 'ease', function() {
 					$(this).text(subtitles.get()+'.');
@@ -134,7 +141,8 @@ var app = (function(w, d, $){
 				rotateSubtitle();
 			}, 4000);
 		};
-		var storeSlideCaptions = function() {
+
+        var storeSlideCaptions = function() {
 			$('.caption').each(function() {
 				var title = $(this).find('.caption-title').text(),
 					body = $(this).find('.caption-body').html(),
@@ -143,171 +151,90 @@ var app = (function(w, d, $){
 				caption.body = body;
 				captions.push(caption);
 			});
-			console.log(captions);
+			console.log('Captions are: ', captions);
 			return captions;
 		};
-                      
-        
-        var $DOM = {};
-        $DOM.body = $('body');
-        $DOM.container = $('.container');
-        $DOM.ajaxLoader = $('.ajax-loader');
-        
-        var templates = {},
-        compiledTemplate,
-        
 
-        
-        
-        fetchTemplate = function() {
-                $.ajax({
-                        url: SCAC.router.pathTo('templates/home/slides.handlebars'),
-                        type: 'POST',
-                        dataType: 'text'        
-                })
-                .done(function(loadedTemplate) {
-                        templates.slides = loadedTemplate;
-                        compiledTemplate = Handlebars.compile(templates.slides);
-                        console.log('Slides template loaded');
-                        $(d).trigger('templateLoaded');                        
-                })
-                .fail(function(jqxhr, textStatus, error) {
-                        var err = textSTatus + ', ' + error;
-                        console.log('Request for template Failed: ' + err);
-                }); 
- 
-        },
-        
-        render = function(callback) {                
-                
-                console.log('render');
-                $.ajax({
-                        url: 'api/get_posts/?post_type=home-page-slides',
-                        type: 'POST',
-                        dataType: 'json'        
-                })
-                .done(function(data) {
-                        console.log(data);
-                        var context = data;
-                        $DOM.ajaxLoader.fadeOut(200);
-                        
-                        console.log(compiledTemplate({ posts : context }));
-                        $(compiledTemplate({ posts : context.posts })).appendTo($('.slides'));
-                        
-                })
-                .fail(function(jqxhr, textStatus, error) {
-                        var err = textSTatus + ', ' + error;
-                        console.log('Request for API Failed: ' + err);
-                });
-                callback();
-                
-        };
-        
-        
-        
         var attachEvents = function() {
-	        elements.homePageSlideCaptionToggle.on('click', function(event) {
-				var self = $(this),
-					caption = self.next('.caption'),
+                $('.toggle-caption').on('click', function(event) {
+                var $this = $(this),
+					caption = $('.caption'),
 					captionBody = caption.children('.caption-body'),
 					captionBodyHeight = captionBody.innerHeight();
-				switch(settings.isHomePageSliderCaptionOpen) {
+                switch(settings.isHomePageSliderCaptionOpen) {
 					case false:
-						caption.transition({
+                        console.log('Slide caption false');
+                        caption.transition({
 							y: -captionBodyHeight
-						}, 200, 'ease', function() {
+						}, 100, 'ease', function() {
 							captionBody.transition({
 								scale: 1,
 								opacity: 1
-							}, 100, 'snap', function() {
-								self.removeClass('icon-plus').addClass('icon-minus');
-								settings.isHomePageSliderCaptionOpen = true;
-							});
-						});
+							}, 100, 'snap');
+                        });
+                        $('.toggle-caption').removeClass('icon-plus').addClass('icon-minus');
+                        settings.isHomePageSliderCaptionOpen = true;
 					break;
 					case true:
-						captionBody.transition({
+                        console.log('Slide caption true');
+                        captionBody.transition({
 							scale: .01,
 							opacity: 0
 						}, 100, 'snap', function() {
 							caption.transition({
 								y: 0
-							}, 300, 'snap', function() {
-								self.removeClass('icon-minus').addClass('icon-plus');
-								settings.isHomePageSliderCaptionOpen = false;
-							});
-						});
+							}, 100, 'snap');
+                        });
+                        $('.toggle-caption').removeClass('icon-minus').addClass('icon-plus');
+                        settings.isHomePageSliderCaptionOpen = false;
 					break;
 				}
 			});
 	        w.addEventListener('hashchange', function() {
-	                console.log('hash just changed');        
+	                //console.log('hash just changed');
 	                router();
 	        });
         },
-        
+
         init = function() {
 
             SCAC.router.route();
-
-            console.log('Hello from Mani');
-
-
-            
-            /*
-            fetchTemplate();
-            $(d).on('templateLoaded', function() {
-                console.log('templates is: ', templates);
-                render(function(){
-                	w.setTimeout(function() {
-	                	initSlideshow($('.slides'), settings.slides.homePage);
-	                	console.log('fire');
-                	}, 3000);
-                	
-                });
-            });
-            */
-            
-			/*      
-        
-            $(d).on('allTemplatesRendered', function() {
-	        	$DOM.ajaxLoader.fadeOut(300);    
-            });
-            */
-            
-        
-        	window.myRenderer = new SCAC.Renderer({
-	        	templateName 	: 'home',
-	        	templateURL 	: 'home/home.handlebars',
-	        	$appendTo 		: $('#main'),
-	        	jsonURL			: 'api/get_posts/?post_type=home-page-slides',
-	        	callback		: function() {
+        	new SCAC.Renderer({
+	        	templateName : 'home',
+	        	templateURL : 'home/home.handlebars',
+	        	$appendTo : $('#main'),
+	        	jsonURL : 'api/get_posts/?post_type=home-page-slides',
+	        	callback : function() {
 		        	console.log('Hello from myRenderer!');
-		        	
-		        	storeSlideCaptions();
-		 			rotateSlideShowCaptions();
-		 			setupDimensions();
-		 			initRotatingSubtitles();
+
 		 			imagesLoaded($('.slides'), function(instance) {
-			 			//alert('Hello');
 			 			initFoundation();
 			 			w.setTimeout(function() {
-				 			initSlideshow($('.slides'), settings.slides.homePage);		
-				 			$('.ajax-loading').fadeOut(300);
+				 			initSlideshow($('.slides'), settings.slides.homePage);
+                            attachEvents();
+                            storeSlideCaptions();
+                            rotateSlideShowCaptions();
+                            setupDimensions();
+                            initRotatingSubtitles();
+                            $('.ajax-loading').transition({
+                                opacity: 0
+                            }, 300, 'ease', function() {
+                                $(this).remove();
+                            });
+
 			 			},2000);
 		 			});
-	                	
-	                	
-		            attachEvents(); 
-	        	}	
+
+
+	        	}
         	}).init();
         };
-        	
-                
+
+
         return {
             init: init
         };
-        
+
 })(window, document, jQuery);
 
 window.onload = app.init();

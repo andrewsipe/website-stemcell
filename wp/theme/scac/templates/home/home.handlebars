@@ -17,8 +17,22 @@
 				<li class="slidesjs-previous slidesjs-navigation icon-angle-left" aria-hidden="true"></li>
 				<li class="slidesjs-next slidesjs-navigation icon-angle-right" aria-hidden="true"></li>
 			</ul><!-- .slides-control -->
-		
-			<!-- template here -->
+
+            <div class="caption-wrapper large-10">
+                <span class="toggle-caption icon-plus" aria-hidden="true"></span>
+                {{#posts}}
+                    <div class="caption large-10 columns">
+                        <h3 class="caption-title">
+                            {{title}}
+                        </h3>{{! .caption-title }}
+                        <div class="caption-body">
+                            <p>
+                                {{custom_fields.wpcf-slide-description}}
+                            </p>
+                        </div>{{! .caption-body }}
+                    </div>{{! .caption large-10 columns }}
+                {{/posts}}
+            </div>{{! .caption-wrapper }}
 		
 		
 		</div><!-- .large-12 columns -->
