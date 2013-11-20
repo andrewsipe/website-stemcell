@@ -1,0 +1,756 @@
+@import 'typography.css';
+
+@import 'fonts/icons/style.css';
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.bold {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 800;
+}
+.italic {
+  font-style: italic;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.block {
+  display: block;
+}
+.inline {
+  display: inline;
+}
+.inline-block {
+  display: inline-block;
+}
+body {
+  font-family: 'ScalaWebPro', 'serif';
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  background: #ffffff;
+}
+body ul.horizontal li {
+  display: inline-block;
+  margin-top: auto;
+  margin-right: 0.5em;
+  margin-bottom: auto;
+  margin-left: auto;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  font-family: 'ScalaSansWebPro-Bold', 'sans-serif';
+}
+body p {
+  margin-top: 1em;
+  margin-right: 0;
+  margin-bottom: 1em;
+  margin-left: 0;
+  color: #323232;
+  font-family: 'ScalaWebPro', 'serif';
+}
+body p a {
+  color: #179fac;
+}
+body p a:hover {
+  color: #004a57;
+}
+body p a:visited,
+body p a:active {
+  color: #01385b;
+}
+body .top-bar.title-social {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  background-color: #179fac;
+  color: #ffffff;
+  height: auto;
+}
+body .top-bar.title-social .row {
+  max-width: 62.5em;
+  color: #ffffff;
+}
+body .top-bar.title-social .row .site-title,
+body .top-bar.title-social .row .funded-by {
+  float: left;
+  display: inline;
+  color: #ffffff;
+  letter-spacing: .09em;
+  font-weight: 300;
+}
+body .top-bar.title-social .row .site-title {
+  font-size: .8em;
+  line-height: 2;
+}
+body .top-bar.title-social .row .funded-by {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 20px;
+  font-size: .7em;
+  line-height: 3;
+}
+body .top-bar.title-social .row .social-icons {
+  float: right;
+}
+body .top-bar.title-social .row .social-icons li {
+  display: inline-block;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0px;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  line-height: 1.6;
+}
+body .top-bar.title-social .row .social-icons li:hover {
+  opacity: .5;
+}
+body .top-bar.title-social .row .social-icons li a {
+  width: 1.6em;
+  height: 1.6em;
+  display: inline-block;
+  margin-left: -30px;
+  background: transparent;
+}
+body .container {
+  float: left;
+  width: 100%;
+  clear: both;
+}
+body .container.logo-menu-wrapper {
+  background-color: #01385b;
+  font-family: ScalaSansWebPro;
+}
+body .container.logo-menu-wrapper .contain-to-grid {
+  background-color: #01385b;
+  height: 4.8em;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav {
+  background-color: #01385b;
+  padding: 1em 0;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav .right > li {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 1em;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav ul {
+  background-color: rgba(1, 56, 91, 0.95);
+}
+body .container.logo-menu-wrapper .contain-to-grid nav ul li > a {
+  background-color: transparent;
+  font-size: 1.4em;
+  font-family: ScalaSansWebPro-Light;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav ul li li a {
+  background-color: rgba(1, 56, 91, 0.94);
+  padding: .5em;
+  -webkit-transition: all 200ms ease-out;
+  -moz-transition: all 200ms ease-out;
+  -ms-transition: all 200ms ease-out;
+  -o-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav ul li li a:hover {
+  background-color: #00274a;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav ul .name .logo {
+  margin-top: -10px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  background: url('../img/logo.png') center center no-repeat transparent;
+  width: 64px;
+  height: 64px;
+  text-indent: -999px;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav ul .divider {
+  border-color: #01385b;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav .top-bar-section .dev-team {
+  right: auto;
+  left: 100%;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav .top-bar-section .right .has-dropdown > a {
+  padding-bottom: .7em;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav .top-bar-section .right .has-dropdown .dropdown {
+  font-size: .8em;
+  border-top: 1px solid #ffffff;
+  background: transparent;
+}
+body .container.logo-menu-wrapper .contain-to-grid nav .top-bar-section .right .has-dropdown .dropdown .dropdown {
+  border-top: none;
+}
+body .slider-wrapper {
+  max-width: 100%;
+  overflow: hidden;
+}
+body .slider-wrapper .slider img {
+  width: 100%;
+  height: auto;
+}
+body .bottom-green-banner {
+  margin-top: -70px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  position: relative;
+  width: 100%;
+  z-index: 10;
+  height: 100px;
+  background: #179fac;
+}
+body .bottom-green-banner .rotating-subtitle {
+  color: #ffffff;
+  font-size: 1.6em;
+  line-height: 2.5;
+  font-family: ScalaSansWebPro-Light, 'Helvetica', 'sans-serif';
+  font-weight: 100;
+  text-align: center;
+}
+body .bottom-green-banner .rotating-subtitle .rotating {
+  display: inline-block;
+  width: 100px;
+}
+body .bottom-green-banner .slides-control {
+  z-index: 10;
+  margin-top: -47px;
+  position: relative;
+}
+body .bottom-green-banner .slides-control .next-prev {
+  float: left;
+  list-style-type: none;
+}
+body .bottom-green-banner .slides-control .next-prev li {
+  display: block;
+  float: left;
+  text-align: center;
+  line-height: 1.4;
+  font-size: 2em;
+  height: 1.5em;
+  width: 1.5em;
+  background-color: #179fac;
+  border: 1px solid #179fac;
+  color: #ffffff;
+}
+body .bottom-green-banner .slides-control .next-prev li:hover {
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  color: #179fac;
+  background-color: #ffffff;
+}
+body .bottom-green-banner .slides-control .caption-wrapper {
+  float: left;
+}
+body .bottom-green-banner .slides-control .caption-wrapper .toggle-caption {
+  display: block;
+  float: left;
+  line-height: 2.6;
+  font-size: 1.2em;
+  height: 2.5em;
+  background: #ffffff;
+  color: #179fac;
+  border: 1px solid #179fac;
+  border-left: none;
+  text-align: center;
+  width: 2.5em;
+}
+body .bottom-green-banner .slides-control .caption-wrapper .toggle-caption:hover {
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  color: #ffffff;
+  background-color: #179fac;
+}
+body .bottom-green-banner .slides-control .caption-wrapper .caption {
+  float: left;
+  position: relative;
+  margin-left: -1px;
+  background-color: #ffffff;
+  padding: 0 .5em;
+  -webkit-box-shadow: inset 0px 1px 0px 1px #179fac;
+  box-shadow: inset 0px 0px 0px 1px #179fac;
+}
+body .bottom-green-banner .slides-control .caption-wrapper .caption .caption-title {
+  font-family: 'ScalaSansWebPro-Light', 'sans-serif';
+  height: 1.08em;
+  font-size: 1.7em;
+  color: #179fac;
+  font-weight: 100;
+  line-height: 1.6;
+}
+body .bottom-green-banner .slides-control .caption-wrapper .caption .caption-body {
+  border: 1px solid #179fac;
+  border-top: none;
+  background-color: #ffffff;
+  padding: .5em;
+  width: 100%;
+  margin: 0;
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  transform: scale(0.01, 0.01);
+  -ms-transform: scale(0.01, 0.01);
+  -webkit-transform: scale(0.01, 0.01);
+}
+body .homepage-bottom .quote {
+  color: #b4b4b4;
+  font-size: 2em;
+  line-height: 1;
+  font-family: ScalaWebPro-Ita;
+}
+body .homepage-bottom .byline {
+  margin-top: 110px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  color: #b4b4b4;
+  line-height: 1.5;
+  font-size: 0.9em;
+}
+body .homepage-bottom h3 {
+  font-family: 'ScalaSansWebPro-Light', 'sans-serif';
+  font-weight: 400;
+  color: #179fac;
+}
+body .footer {
+  color: #179fac;
+  padding-top: 20px;
+  padding-right: 0;
+  padding-bottom: 120px;
+  padding-left: 0;
+  margin-top: 40px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  background-color: #01385b;
+}
+body .footer h6 {
+  color: #ffffff;
+  font-size: .8em;
+}
+body .footer p {
+  color: #179fac;
+  margin-top: 10px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  float: left;
+  clear: both;
+  font-size: .8em;
+}
+body .footer .footer-logos {
+  float: left;
+  list-style-type: none;
+}
+body .footer .footer-logos li {
+  display: inline-block;
+}
+body .footer .footer-logos li .logo {
+  display: block;
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 0;
+  height: 35px;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
+  -moz-opacity: 0.5;
+  -khtml-opacity: 0.5;
+  opacity: 0.8;
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+}
+body .footer .footer-logos li .logo .sencer {
+  height: 30px;
+}
+body .footer .footer-logos li .logo:hover {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: alpha(opacity=100);
+  -moz-opacity: 1;
+  -khtml-opacity: 1;
+  opacity: 1;
+}
+body .footer .cc {
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  margin-top: 0;
+  margin-right: 0.5em;
+  margin-bottom: 0;
+  margin-left: 0;
+  height: 20px;
+}
+body .footer .fine-print {
+  margin-top: 36px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  font-size: .8em;
+}
+body#development-team .logo-menu-wrapper {
+  margin-bottom: 30px;
+}
+body#development-team .subtitle {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 100;
+  float: left;
+  width: 100%;
+  text-align: center;
+  border-bottom: 2px solid #01385b;
+  margin-bottom: 1em;
+  color: #01385b;
+}
+body#development-team .team-member {
+  margin-bottom: 3em;
+  float: left;
+}
+body#development-team .team-member .profile {
+  width: 100%;
+  height: 150px;
+  margin: 0;
+}
+body#development-team .team-member .profile figcaption {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 400;
+  color: #179fac;
+  float: left;
+  width: 70%;
+  margin-top: 60px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0.7em;
+}
+body#development-team .team-member .profile figcaption .name {
+  font-size: 1.5em;
+}
+body#development-team .team-member .profile figcaption .role {
+  font-family: 'ScalaSansWebPro-Cond', 'sans-serif';
+  font-weight: 100;
+  color: #969696;
+  line-height: 1.2;
+  margin-top: 0.3em;
+  margin-right: 0;
+  margin-bottom: 0.3em;
+  margin-left: 0;
+}
+body#development-team .team-member .profile img {
+  border: 2px solid #179fac;
+  width: 150px;
+  height: 150px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #eee;
+  float: left;
+}
+body#development-team .team-member .contact ul {
+  float: left;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+  clear: both;
+  margin-top: 1.2em;
+  list-style-type: none;
+  padding: 0;
+  -webkit-transition: all 200ms ease-out;
+  -moz-transition: all 200ms ease-out;
+  -ms-transition: all 200ms ease-out;
+  -o-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+  background-color: transparent;
+}
+body#development-team .team-member .contact ul:hover {
+  background-color: #eee;
+}
+body#development-team .team-member .contact ul li {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  padding: .5em 0;
+  font-size: .9em;
+  display: inline-block;
+  float: left;
+  width: 49%;
+}
+body#development-team .team-member .contact ul li:first-child {
+  border-right: 1px solid white;
+}
+body#development-team .team-member .contact ul li:hover .icon,
+body#development-team .team-member .contact ul li:hover a {
+  color: #7d7d7d;
+}
+body#development-team .team-member .contact ul li a {
+  padding-top: .2em;
+}
+body#development-team .team-member .contact ul li .icon {
+  font-size: 1.5em;
+  padding: 0 .5em;
+}
+body#development-team .team-member .contact ul li a,
+body#development-team .team-member .contact ul li .icon {
+  -webkit-transition: all 200ms ease-out;
+  -moz-transition: all 200ms ease-out;
+  -ms-transition: all 200ms ease-out;
+  -o-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+  color: #aaaaaa;
+  float: left;
+}
+body#development-team .side-bar {
+  background-color: #179fac;
+  font-size: 1.3em;
+  margin-top: 2.2em;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  padding-top: 0.3em;
+  padding-right: 0.3em;
+  padding-bottom: 0.3em;
+  padding-left: 0.3em;
+}
+body#development-team .side-bar .side-nav {
+  padding: 0;
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  background-color: #01385b;
+}
+body#development-team .side-bar .side-nav li {
+  padding-top: 0.2em;
+  padding-right: 0.3em;
+  padding-bottom: 0.2em;
+  padding-left: 0.3em;
+  margin-bottom: .4;
+  text-align: left;
+}
+body#development-team .side-bar .side-nav li a {
+  color: #fff;
+}
+body#development-team .side-bar .side-nav li:last-child {
+  margin-bottom: 0;
+}
+body#development-team .side-bar .side-nav li.divider {
+  border-top-color: #179fac;
+  border-top-width: .3em;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+body#development-team .side-bar .side-nav li.has-dropdown {
+  position: relative;
+  padding-right: 0;
+  padding-left: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+body#development-team .side-bar .side-nav li.has-dropdown .arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #01385b;
+  position: absolute;
+  left: 45%;
+}
+body#development-team .side-bar .side-nav li.has-dropdown h1 {
+  font-size: 1em;
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-right: 0;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  padding: 0;
+}
+body#development-team .side-bar .side-nav li.has-dropdown .dropdown {
+  font-family: 'ScalaSansWebPro-Light', 'sans-serif';
+  font-weight: 100;
+  background-color: #179fac;
+  padding: .5em 0 .3em 0;
+  margin: 0;
+  list-style-type: none;
+}
+body#development-team .side-bar .side-nav li.has-dropdown .dropdown li {
+  text-align: left;
+}
+body#development-team .side-bar .side-nav li.has-dropdown .dropdown li.active {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 400;
+}
+body#development-team .side-bar .side-nav li.has-dropdown .dropdown li a {
+  color: #01385b;
+}
+body#pedagogies-and-philosophies .download {
+  color: #179fac;
+}
+body .page-heading {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 400;
+  color: #179fac;
+}
+body .side-bar {
+  background-color: #179fac;
+  font-size: 1.3em;
+  margin-top: 2.2em;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  padding-top: 0.3em;
+  padding-right: 0.3em;
+  padding-bottom: 0.3em;
+  padding-left: 0.3em;
+}
+body .side-bar .side-nav {
+  padding: 0;
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  background-color: #01385b;
+}
+body .side-bar .side-nav li {
+  padding-top: 0.2em;
+  padding-right: 0.3em;
+  padding-bottom: 0.2em;
+  padding-left: 0.3em;
+  margin-bottom: .4;
+  text-align: left;
+}
+body .side-bar .side-nav li a {
+  color: #fff;
+}
+body .side-bar .side-nav li:last-child {
+  margin-bottom: 0;
+}
+body .side-bar .side-nav li.divider {
+  border-top-color: #179fac;
+  border-top-width: .3em;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+body .side-bar .side-nav li.has-dropdown {
+  position: relative;
+  padding-right: 0;
+  padding-left: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+body .side-bar .side-nav li.has-dropdown .arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #01385b;
+  position: absolute;
+  left: 45%;
+}
+body .side-bar .side-nav li.has-dropdown h1 {
+  font-size: 1em;
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-right: 0;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  padding: 0;
+}
+body .side-bar .side-nav li.has-dropdown .dropdown {
+  font-family: 'ScalaSansWebPro-Light', 'sans-serif';
+  font-weight: 100;
+  background-color: #179fac;
+  padding: .5em 0 .3em 0;
+  margin: 0;
+  list-style-type: none;
+}
+body .side-bar .side-nav li.has-dropdown .dropdown li {
+  text-align: left;
+}
+body .side-bar .side-nav li.has-dropdown .dropdown li.active {
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 400;
+}
+body .side-bar .side-nav li.has-dropdown .dropdown li a {
+  color: #01385b;
+}
+body#pedagogies-and-philosophies .side-bar {
+  margin-top: 4.5em;
+}
+body#pedagogies-and-philosophies .adopters li {
+  padding: .3em;
+  background: #eee;
+}
+body .side-bar .side-nav .active a:first-child {
+  color: #179fac;
+  font-size: .9em;
+}
+body .row > .content {
+  margin-top: 1.5em;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+}
+body .row > .content .page-title {
+  font-family: 'ScalaSansWebPro-Light', 'sans-serif';
+  font-weight: 100;
+  font-size: 2em;
+}
+.css-debug {
+  background: #eee;
+}
+.include {
+  float: left;
+  width: 100%;
+  height: auto;
+  outline: none;
+  border: none;
+  height: 800px;
+}
+.thm {
+  width: 100%;
+  background-color: #eee;
+  padding: .2em;
+  margin: .2em, .2em, .2em, .2em;
+  margin-bottom: .5em;
+  float: left;
+  height: auto;
+}

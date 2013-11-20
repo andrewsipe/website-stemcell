@@ -1,0 +1,94 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('icomoon.eot');
+	src:url('icomoon.eot?#iefix') format('embedded-opentype'),
+		url('icomoon.woff') format('woff'),
+		url('icomoon.ttf') format('truetype'),
+		url('icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-feed, .icon-twitter, .icon-arrow-up-left, .icon-arrow-left, .icon-arrow-down-left, .icon-arrow-down, .icon-arrow-down-right, .icon-arrow-right, .icon-arrow-up-right, .icon-arrow-up, .icon-angle-left, .icon-angle-right, .icon-angle-up, .icon-angle-down, .icon-plus, .icon-minus, .icon-globe, .icon-envelope-alt {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-feed:before {
+	content: "\e000";
+}
+.icon-twitter:before {
+	content: "\e001";
+}
+.icon-arrow-up-left:before {
+	content: "\e004";
+}
+.icon-arrow-left:before {
+	content: "\e005";
+}
+.icon-arrow-down-left:before {
+	content: "\e006";
+}
+.icon-arrow-down:before {
+	content: "\e007";
+}
+.icon-arrow-down-right:before {
+	content: "\e008";
+}
+.icon-arrow-right:before {
+	content: "\e009";
+}
+.icon-arrow-up-right:before {
+	content: "\e00a";
+}
+.icon-arrow-up:before {
+	content: "\e00b";
+}
+.icon-angle-left:before {
+	content: "\f104";
+}
+.icon-angle-right:before {
+	content: "\f105";
+}
+.icon-angle-up:before {
+	content: "\f106";
+}
+.icon-angle-down:before {
+	content: "\f107";
+}
+.icon-plus:before {
+	content: "\f067";
+}
+.icon-minus:before {
+	content: "\f068";
+}
+.icon-globe:before {
+	content: "\f0ac";
+}
+.icon-envelope-alt:before {
+	content: "\f0e0";
+}

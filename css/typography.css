@@ -1,0 +1,208 @@
+/* icomoon */
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icons/icomoon.eot');
+	src:url('fonts/icons/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('fonts/icons/icomoon.woff') format('woff'),
+		url('fonts/icons/icomoon.ttf') format('truetype'),
+		url('fonts/icons/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Scala Web Pro */
+@font-face {
+  font-family: ScalaWebPro-Bold;
+  src: url("fonts/scala-web-pro/ScalaWebPro-Bold.eot");
+}
+@font-face {
+  font-family: ScalaWebPro-Bold;
+  src: url("fonts/scala-web-pro/fonts/ScalaWebPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaWebPro-BoldIta;
+  src: url("fonts/scala-web-pro/ScalaWebPro-BoldIta.eot");
+}
+@font-face {
+  font-family: ScalaWebPro-BoldIta;
+  src: url("fonts/scala-web-pro/ScalaWebPro-BoldIta.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaScWebPro-BoldIta;
+  src: url("fonts/scala-web-pro/ScalaScWebPro-BoldIta.eot");
+}
+@font-face {
+  font-family: ScalaScWebPro-BoldIta;
+  src: url("fonts/scala-web-pro/ScalaScWebPro-BoldIta.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaScWebPro-Bold;
+  src: url("fonts/scala-web-pro/ScalaScWebPro-Bold.eot");
+}
+@font-face {
+  font-family: ScalaScWebPro-Bold;
+  src: url("fonts/scala-web-pro/ScalaScWebPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaWebPro-CondBold;
+  src: url("fonts/scala-web-pro/ScalaWebPro-CondBold.eot");
+}
+@font-face {
+  font-family: ScalaWebPro-CondBold;
+  src: url("fonts/scala-web-pro/ScalaWebPro-CondBold.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaWebPro-Cond;
+  src: url("fonts/scala-web-pro/ScalaWebPro-Cond.eot");
+}
+@font-face {
+  font-family: ScalaWebPro-Cond;
+  src: url("fonts/scala-web-pro/ScalaWebPro-Cond.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaWebPro;
+  src: url("fonts/scala-web-pro/ScalaWebPro.eot");
+}
+@font-face {
+  font-family: ScalaWebPro;
+  src: url("fonts/scala-web-pro/ScalaWebPro.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaWebPro-Ita;
+  src: url("fonts/scala-web-pro/ScalaWebPro-Ita.eot");
+}
+@font-face {
+  font-family: ScalaWebPro-Ita;
+  src: url("fonts/scala-web-pro/ScalaWebPro-Ita.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaScWebPro-Ita;
+  src: url("fonts/scala-web-pro/ScalaScWebPro-Ita.eot");
+}
+@font-face {
+  font-family: ScalaScWebPro-Ita;
+  src: url("fonts/scala-web-pro/ScalaScWebPro-Ita.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaScWebPro;
+  src: url("fonts/scala-web-pro/ScalaScWebPro.eot");
+}
+@font-face {
+  font-family: ScalaScWebPro;
+  src: url("fonts/scala-web-pro/ScalaScWebPro.woff") format("woff");
+}
+
+/* Scala Sans Web Pro */
+@font-face {
+  font-family: ScalaSansScWebPro;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro.eot");
+}
+@font-face {
+  font-family: ScalaSansScWebPro;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansScWebPro-Ita;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro-Ita.eot");
+}
+@font-face {
+  font-family: ScalaSansScWebPro-Ita;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro-Ita.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Ita;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Ita.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Ita;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Ita.woff") format("woff");
+}
+
+@font-face {
+  font-family: ScalaSansWebPro;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-LightIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-LightIta.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-LightIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-LightIta.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Light;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Light.eot");
+} 
+@font-face {
+  font-family: ScalaSansWebPro-Light;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Light.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Cond;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Cond.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Cond;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Cond.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-CondBold;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-CondBold.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-CondBold;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-CondBold.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansScWebPro-Bold;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro-Bold.eot");
+}
+@font-face {
+  font-family: ScalaSansScWebPro-Bold;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansScWebPro-BoldIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro-BoldIta.eot");
+}
+@font-face {
+  font-family: ScalaSansScWebPro-BoldIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansScWebPro-BoldIta.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-BoldIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-BoldIta.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-BoldIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-BoldIta.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Bold;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Bold.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Bold;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-BlackIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-BlackIta.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-BlackIta;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-BlackIta.woff") format("woff");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Black;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Black.eot");
+}
+@font-face {
+  font-family: ScalaSansWebPro-Black;
+  src: url("fonts/scala-sans-web-pro/ScalaSansWebPro-Black.woff") format("woff");
+}

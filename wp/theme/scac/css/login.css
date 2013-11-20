@@ -1,0 +1,6 @@
+#login h1 a { 
+	background: url("http://stemcellteaching.org/wp-content/themes/scac/css/logo.png") no-repeat center center !important;
+}
+p.submit input[type=submit] {
+	background: rgba(23, 158, 174, 1)!important;
+}

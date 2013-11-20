@@ -1,0 +1,245 @@
+// Utility Less file used across SCAC
+@import 'typography.css';
+
+
+// BEGIN variables
+
+// colors
+@color-red : #ee2e24;
+@color-black: #000;
+@color-light: #f4f2df;
+@color-clay: #e7e5db;
+@color-grey: rgb(180,180,180);
+@color-grey-dark: #666;
+@color-white: #fff;
+@color-yellow: #fef200;
+
+// typography
+@font-size-base: 16px;
+
+// END variables
+
+
+// BEGIN mixins
+
+// misc
+.no-user-select() {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+// colors
+.greyBg(@greyVal: 200, @opac:1) {
+  background-color: rgba(@greyVal,@greyVal,@greyVal,@opac);
+}
+
+// typography
+.font-ScalaWebPro-Bold(){
+  font-family: 'ScalaWebPro-Bold', 'Times New Roman', serif;
+  font-weight: 800;
+}
+.font-ScalaWebPro-BoldIta(){
+  font-family: 'ScalaWebPro-BoldIta', 'Times New Roman', serif;
+  font-weight: 800;
+}
+.font-ScalaWebPro-BoldIta(){
+  font-family: 'ScalaWebPro-BoldIta', 'Times New Roman', serif;
+  font-weight: 800;
+} 
+.font-ScalaScWebPro-Bold(){
+  font-family: 'ScalaScWebPro-Bold', 'Times New Roman', serif;
+  font-weight: 800;
+} 
+.font-ScalaWebPro-CondBold(){
+  font-family: 'ScalaScWebPro-Bold', 'Times New Roman', serif;
+  font-weight: 800;
+} 
+.font-ScalaWebPro-Cond(){
+  font-family: 'ScalaWebPro-Cond', 'Times New Roman', serif;
+  font-weight: 300;
+}  
+.font-ScalaWebPro(){
+  font-family: 'ScalaWebPro', 'Times New Roman', serif;
+  font-weight: 300;
+}
+.font-ScalaWebPro-Ita(){
+  font-family: 'ScalaWebPro-Ita', 'Times New Roman', serif;
+  font-weight: 300;
+}
+.font-ScalaScWebPro-Ita(){
+  font-family: 'ScalaScWebPro-Ita', 'Times New Roman', serif;
+  font-weight: 300;
+} 
+.font-ScalaScWebPro(){
+  font-family: 'ScalaScWebPro', 'Times New Roman', serif;
+  font-weight: 300;
+}
+.font-ScalaSansScWebPro(){
+  font-family: 'ScalaSansScWebPro', 'sans-serif';
+  font-weight: 300;
+} 
+.font-ScalaSansScWebPro-Ita(){
+  font-family: 'ScalaSansScWebPro-Ita', 'sans-serif';
+  font-weight: 300;
+}
+.font-ScalaSansWebPro-Ita(){
+  font-family: 'ScalaSansScWebPro', 'sans-serif';
+  font-weight: 300;
+} 
+.font-ScalaSansWebPro(){
+  font-family: 'ScalaSansWebPro', 'sans-serif';
+  font-weight: 300;
+}
+.font-ScalaSansWebPro-LightIta(){
+  font-family: 'ScalaSansWebPro-LightIta', 'sans-serif';
+  font-weight: 100;
+}  
+.font-ScalaSansWebPro-Light(){
+  font-family: 'ScalaSansWebPro-Light', 'sans-serif';
+  font-weight: 100;
+}  
+.font-ScalaSansWebPro-Cond(){
+  font-family: 'ScalaSansWebPro-Cond', 'sans-serif';
+  font-weight: 300;
+} 
+.font-ScalaSansWebPro-CondBold(){
+  font-family: 'ScalaSansWebPro-Cond', 'sans-serif';
+  font-weight: 800;
+}
+.font-ScalaSansScWebPro-Bold(){
+  font-family: 'ScalaSansScWebPro-Bold', 'sans-serif';
+  font-weight: 800;
+} 
+.font-ScalaSansScWebPro-BoldIta(){
+  font-family: 'ScalaSansScWebPro-BoldIta', 'sans-serif';
+  font-weight: 800;
+}
+.font-ScalaSansWebPro-Bold(){
+  font-family: 'ScalaSansWebPro-Bold', 'sans-serif';
+  font-weight: 800;
+}
+.font-ScalaSansWebPro-BlackIta(){
+  font-family: 'ScalaSansWebPro-BlackIta', 'sans-serif';
+  font-weight: 900;
+}
+.ScalaSansWebPro-Black(){
+  font-family: 'ScalaSansWebPro-Black', 'sans-serif';
+  font-weight: 900;
+}         
+// display
+.block() { display: block; }
+.inline() { display: inline; }
+.inline-block() { display: inline-block; }
+.display-none() { display: none; }
+.hidden() { visibility: hidden; }
+
+// typography
+.line-height(@lineHeight: 1) {
+  line-height: @lineHeight;
+}
+.letter-spacing(@letterSpacing:0.0625em) {
+  letter-spacing: @letterSpacing;
+}
+.italic() { font-style: italic; }
+.strong() { font-weight: bold; }
+.weight(@fontWeight: 400) { font-weight: @fontWeight; }
+.upperCase() { text-transform: uppercase; }
+.align-left() { text-align: left; }
+.align-right() { text-align: right; }
+.align-center() { text-align: center; }
+.nowrap() { white-space:nowrap; }
+
+// positioning
+.relative() { position: relative; }
+.absolute() { position: absolute; }
+.static() { position: static; }
+.fixed() { position: fixed; }
+
+// floats
+.float-left() { float: left; }
+.float-right() { float: right; }
+.float-none() { float: none; }
+.clear-left() { clear: left; }
+.clear-right() { clear: right; }
+.clear-both() { clear: both; }
+
+// css box model
+.box-sizing(@sizing: border-box) {
+  -ms-box-sizing: @sizing;
+  -moz-box-sizing: @sizing;
+  -webkit-box-sizing: @sizing;
+  box-sizing: @sizing;
+}
+.margin-centered() {
+  margin-left: auto;
+  margin-right: auto;
+}
+.margin(@top: auto, @right: auto, @bottom: auto, @left: auto) {
+  margin-top: @top;
+  margin-right: @right;
+  margin-bottom: @bottom;
+  margin-left: @left;
+}
+.padding(@top: 5px, @right: 5px, @bottom: 5px, @left: 5px) {
+  padding-top: @top;
+  padding-right: @right;
+  padding-bottom: @bottom;
+  padding-left: @left;
+}
+// border
+.rounded (@radius: 5px) {
+  -moz-border-radius: @radius;
+  -webkit-border-radius: @radius;
+  border-radius: @radius;
+}
+.border-radius(@topleft: 0, @topright: 0, @bottomright: 0, @bottomleft: 0) {
+  -webkit-border-top-right-radius: @topright;
+  -webkit-border-bottom-right-radius: @bottomright;
+  -webkit-border-bottom-left-radius: @bottomleft;
+  -webkit-border-top-left-radius: @topleft;
+  -moz-border-radius-topright: @topright;
+  -moz-border-radius-bottomright: @bottomright;
+  -moz-border-radius-bottomleft: @bottomleft;
+  -moz-border-radius-topleft: @topleft;
+  border-top-right-radius: @topright;
+  border-bottom-right-radius: @bottomright;
+  border-bottom-left-radius: @bottomleft;
+  border-top-left-radius: @topleft;
+  .background-clip(padding-box);
+}
+.bordered(@top-color: #EEE, @right-color: #EEE, @bottom-color: #EEE, @left-color: #EEE) {
+  border-top: solid 1px @top-color;
+  border-left: solid 1px @left-color;
+  border-right: solid 1px @right-color;
+  border-bottom: solid 1px @bottom-color;
+}
+
+// opacity
+.opacity(@opacity: 0.5) {
+  -moz-opacity: @opacity;
+  -khtml-opacity: @opacity;
+  -webkit-opacity: @opacity;
+  opacity: @opacity;
+  @opperc: @opacity * 100;
+  -ms-filter: ~"progid:DXImageTransform.Microsoft.Alpha(opacity=@{opperc})";
+  filter: ~"alpha(opacity=@{opperc})"
+}
+
+// transform and transition
+.transform(...) {
+  -webkit-transform: @arguments;
+  -moz-transform: @arguments;
+  -o-transform: @arguments;
+  -ms-transform: @arguments;
+  transform: @arguments;
+}
+.transition(@duration:0.3s, @ease:ease-in-out) {
+  -webkit-transition: all @duration @ease;
+  -moz-transition: all @duration @ease;
+  -o-transition: all @duration @ease;
+  transition: all @duration @ease;
+}
+// END mixins //
