@@ -249,7 +249,10 @@ var app = (function(w, d, $){
         init = function() {
 
             SCAC.router.route();
-            
+
+            console.log('Hello from Mani');
+
+
             
             /*
             fetchTemplate();

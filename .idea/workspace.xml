@@ -1,581 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0ca15de-e85d-4342-a76b-7eaec901db1c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/019.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/019.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/019.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/1-design-comps_Home Page.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/178_007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/178_007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/178_007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/1951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/1951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/1951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/2-design-comps_Home Page Interactions.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/288_010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/288_010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/288_010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/3-design-comps_Content-heavy Page.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/32_henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/32_henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/32_henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/4-design-comps_Content-havy page scrolled down.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/5-design-comps_Media page.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/6-design-comps_Media page fullscreen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/659_013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/659_013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/659_013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/669_henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/669_henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/669_henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/682_004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/682_004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/682_004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/751_what.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/751_what.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/751_what.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/768_crycloseup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/768_crycloseup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/768_crycloseup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timelines/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/downloads/SCAC-Philosophy8_25_13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaCompPro-Cond.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaCompPro-Cond.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaCompPro-CondBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaCompPro-CondBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-BlackIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-BlackIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Cond.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Cond.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-CondBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-CondBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro-LightIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro-LightIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansScWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansScWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BlackIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BlackIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BlackIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BlackIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Cond.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Cond.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Cond.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Cond.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-CondBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-CondBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-CondBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-CondBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-LightIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-LightIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro-LightIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro-LightIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-sans-web-pro/ScalaSansWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-sans-web-pro/ScalaSansWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScCompPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScCompPro-BoldIta.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScCompPro-Ita.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScCompPro.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaScWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaScWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-BoldIta.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-BoldIta.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-Cond.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-Cond.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-Cond.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-Cond.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-CondBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-CondBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-CondBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-CondBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-Ita.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro-Ita.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/scala-web-pro/ScalaWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/scala-web-pro/ScalaWebPro.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Untitled-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/adrienne-asch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/alexa-riggs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/anger_confusion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/anger_confusion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/anger_confusion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/ann-snitow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/astrid-vallens.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/attc_close_up.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/attc_close_up.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/attc_close_up.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/attc_hela_400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/attc_hela_400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/attc_hela_400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/attc_hela_zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/attc_hela_zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/attc_hela_zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/audio_hi.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/audio_lo.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/baltimore__4c2jiw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/baltimore__4c2jiw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/baltimore__4c2jiw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer-include/cc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/img/footer-include/cc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/ccpatroit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/ccpatroit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/ccpatroit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/cell_cultu_i_dish.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/cell_cultu_i_dish.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/cell_cultu_i_dish.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/cervical_ais_thinprep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/cervical_ais_thinprep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/cervical_ais_thinprep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/cervical_c_adnexa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/cervical_c_adnexa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/cervical_c_adnexa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/charnell-covert.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/chelsea-briganti.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/christ_jhm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/christ_jhm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/christ_jhm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/cin_1_hpv_on_thinprep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/cin_1_hpv_on_thinprep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/cin_1_hpv_on_thinprep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/congressional_record.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/congressional_record.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/congressional_record.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps-07-02-2013.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps-07-02-2013.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/design-comps-6-26-2013.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/06.26.2013/design-comps.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Content Page - 1 copy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Content Page - 1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Content Page - 1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page Interactions - 1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Home Page Interactions - 1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page Interactions - 2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page Interactions - 3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page Interactions - 4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page Interactions - 5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page Scrolled Down.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Home Page Scrolled Down.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Home Page copy 2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Home Page.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Media Page copy 2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Media Page copy 3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Media Page copy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.02.2013/design-comps_Media Page.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/07.18.2013 2/design-comps_Media Page.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/detailed-sheet-test.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/dozier.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/emmanuel-nunez.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/eric-macphail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fonts/fontawesome.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/fonts/fontawesome.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fonts/fontawesome.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/fonts/fontawesome.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fonts/fontawesome.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/fonts/fontawesome.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/fordham.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/full_moon__enmark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/full_moon__enmark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/full_moon__enmark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/gardasil_v_ox_new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/gardasil_v_ox_new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/gardasil_v_ox_new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/hala_title_slide_opt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/hala_title_slide_opt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/hala_title_slide_opt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/hela_cells_709_ph.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/hela_cells_709_ph.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/hela_cells_709_ph.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/hela_cells__33258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/hela_cells__33258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/hela_cells__33258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/hela_cells_icolor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/hela_cells_icolor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/hela_cells_icolor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/hela_slide_name.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/hela_slide_name.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/hela_slide_name.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/henrietta__s_1945.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icons/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/icons/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icons/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/icons/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icons/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/icons/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/immortal_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/immortal_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/immortal_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/johns_hopk__room..jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/johns_hopk__room..jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/johns_hopk__room..jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/johnshopkins.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/johnshopkins.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/johnshopkins.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/julia-wargaski.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/katayoun-chamany.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/katie-mcgreeveyandarielmerkel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/lauren-gibbons.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/lianna-schwartz-orbach.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/lisa-rubin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/mani-nilchiani.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/map_of_fre_states.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/map_of_fre_states.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/map_of_fre_states.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/michael-pettinger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/nails.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/nails.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/nails.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/nona-griffin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/notredame.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/novamoxin_antibiotic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/novamoxin_antibiotic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/novamoxin_antibiotic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nystem-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nystem-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer-include/nystem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/img/footer-include/nystem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/petri_tassid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/petri_tassid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/petri_tassid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/pittpoliovaccinecol.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/pittpoliovaccinecol.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/pittpoliovaccinecol.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/raidal-test-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/raidal-test-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/rhiannon-fox.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/saffo-papantonopoulou.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/salk_thank_you.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/salk_thank_you.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/salk_thank_you.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/scac-logo.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/scac-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer-include/scac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/img/footer-include/scac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/segregation_1938b__1_.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/segregation_1938b__1_.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/segregation_1938b__1_.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sencer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer-include/sencer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/img/footer-include/sencer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sencer_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/sfstate.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/sky_spectr_yotype.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/sky_spectr_yotype.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/sky_spectr_yotype.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/soundslider.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/squatanger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/squatanger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/squatanger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/steven-houang.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tns-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/tns.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer-include/tns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/img/footer-include/tns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/tuskegee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/tuskegee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/tuskegee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/tuskegee_university.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/tuskegee_university.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/tuskegee_university.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/tyler-cutforth.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/uc-davis-law.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/uc-irvine.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adopters/vassar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/warren-balinsky.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/development-team/wendy-newsletter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/what.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/what.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/what.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/400_300/wikimedia_and_credits.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/600_450/wikimedia_and_credits.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/fullscreen/wikimedia_and_credits.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adopters-and-institutions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/home/captions.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codekit-config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/custom.modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/custom.modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/development-team.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fonts/fontawesome.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/fonts/fontawesome.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fonts/fontawesome.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/fonts/fontawesome.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/inc/footer.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/inc/header.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/home/home.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icons/icomoon.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/icons/icomoon.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icons/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/icons/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/jquery.imagesloaded.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.slides.min-ck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/jquery.slides.min-ck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.slides.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/jquery.slides.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.transit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/jquery.transit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lte-ie7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/lte-ie7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main-ck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-hela 2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-hela.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/inc/navigation.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pedagogies-and-philosophies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/plugins.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/scac.renderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/scac.router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/scac.utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/home/slides.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/small.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/soundslide.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/media/soundslide.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icons/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/fonts/icons/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/templates/inc/topbar.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/utils.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/css/utils.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website-stemcell.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/zepto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp/theme/scac/js/vendor/zepto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="e0ca15de-e85d-4342-a76b-7eaec901db1c" name="Default" comment="changed .gitignore">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp/theme/scac/functions.php" afterPath="$PROJECT_DIR$/wp/theme/scac/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp/theme/scac/js/main.js" afterPath="$PROJECT_DIR$/wp/theme/scac/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="website-stemcell.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e0ca15de-e85d-4342-a76b-7eaec901db1c" time="1384920129227" ignored="false" />
+    <file path="/Dummy.txt" changelist="e0ca15de-e85d-4342-a76b-7eaec901db1c" time="1384966745256" ignored="false" />
+    <file path="/.gitignore" changelist="e0ca15de-e85d-4342-a76b-7eaec901db1c" time="1384924158169" ignored="false" />
+    <file path="/main.js" changelist="e0ca15de-e85d-4342-a76b-7eaec901db1c" time="1384967221991" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -590,7 +26,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -627,6 +62,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -636,10 +72,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.09375">
+            <state line="2" column="14" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp/theme/scac/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="254" column="12" selection-start="7627" selection-end="7627" vertical-scroll-proportion="0.5208333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scac.renderer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/scac.renderer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -663,7 +129,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/wp/theme/scac/js/scac.renderer.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/wp/theme/scac/functions.php" />
+        <option value="$PROJECT_DIR$/wp/theme/scac/js/main.js" />
       </list>
     </option>
   </component>
@@ -701,8 +170,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -731,12 +198,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website-stemcell" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website-stemcell" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scac" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -744,16 +235,17 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp/theme/scac" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="PublishConfig">
+  <component name="PublishConfig" serverName="scac-ftp" serverId="2c06d684-300e-4b9b-94f8-3b41553baa91" autoUpload="true">
     <servers>
       <server id="2c06d684-300e-4b9b-94f8-3b41553baa91">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" />
+            <mapping deploy="/wp-content/themes/scac" local="$PROJECT_DIR$/wp/theme/scac" web="/" />
           </mappings>
         </serverdata>
       </server>
@@ -881,6 +373,15 @@
       <created>1384918365365</created>
       <updated>1384918365365</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1384921053090</created>
+      <updated>1384921053090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed .gitignore">
+      <created>1384924208612</created>
+      <updated>1384924208612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -900,6 +401,7 @@
     <frame x="4" y="22" width="1436" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -911,8 +413,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -925,6 +426,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -970,7 +472,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed .gitignore" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -985,6 +487,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="initial commit" />
+    <MESSAGE value="changed .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -996,6 +499,41 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/scac.renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -1010,7 +548,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.09375">
+        <state line="2" column="14" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/theme/scac/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/scac.renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/theme/scac/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="254" column="12" selection-start="7627" selection-end="7627" vertical-scroll-proportion="0.5208333">
           <folding />
         </state>
       </provider>

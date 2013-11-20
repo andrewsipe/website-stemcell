@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 // Remove unnecessary boxes from admin home 
 add_action('wp_dashboard_setup', 'wpc_dashboard_widgets');
