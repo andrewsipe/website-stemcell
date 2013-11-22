@@ -1,6 +1,7 @@
-var app = (function(w, d, $){
+var SCAC = SCAC || {};
+SCAC.modules = SCAC.modules || {};
+SCAC.modules.home = (function(w, d, $){
         'use strict';
-
 
         var elements = {},
 		settings = {},
@@ -199,7 +200,7 @@ var app = (function(w, d, $){
         init = function() {
 
             SCAC.router.route();
-        	new SCAC.Renderer({
+            new SCAC.Renderer({
 	        	templateName : 'home',
 	        	templateURL : 'home/home.handlebars',
 	        	$appendTo : $('#main'),
@@ -237,4 +238,4 @@ var app = (function(w, d, $){
 
 })(window, document, jQuery);
 
-window.onload = app.init();
+window.onload = SCAC.modules.home.init();
